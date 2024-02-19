@@ -510,13 +510,15 @@ __Недостатки файл-серверной архитектуры__
 - __MySQL
 - __MySQL Workbench
 - __Можно также использовать любую серверную сборку, содержащую MySQL, например, XAMP, OpenServer, Denver и т.п.
-
+---
 __Онлайн
 
 __[https://sqlfiddle.com/mysql/online-compiler](https://sqlfiddle.com/mysql/online-compiler)__
+---
 __[https://onecompiler.com/mysql](https://onecompiler.com/mysql)__
+---
 __[https://www.w3schools.com/mysql/mysql_editor.asp](https://www.w3schools.com/mysql/mysql_editor.asp)__
-
+---
 ## Виды таблиц в MySQL
 - Транзакционные
 	- InnoDB
